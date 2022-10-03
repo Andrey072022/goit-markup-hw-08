@@ -1,0 +1,42 @@
+.logo {
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--logo-color-first-part);
+}
+.logo__heder {
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--heder-logo-color-second-part);
+ 
+}
+.logo-poud {
+   margin-right: 93px;
+}
+.logo__footer {
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  display: block; 
+  margin-bottom: 20px;
+  margin-right: 0;
+
+ color: var(--primary-text-color-light);
+}
+.footer-logo {
+  word-spacing: nowrap;
+}
+
+
+ 
+
+@media screen and (min-width: 1200px) {
+  
+}
