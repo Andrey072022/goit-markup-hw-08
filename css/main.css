@@ -484,6 +484,7 @@ body {
   }
   .act {
     padding-top: 0;
+    display: block;
   }
   .act__item {
     position: relative;
